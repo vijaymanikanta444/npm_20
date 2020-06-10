@@ -1,0 +1,19 @@
+{
+  "name": "npm-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server":"live-server"
+  },
+  "author": "vijay",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
